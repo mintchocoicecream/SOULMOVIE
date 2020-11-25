@@ -1,6 +1,6 @@
 # **SOULMOVIE**
 ## Spring Framework Web Project
-### *(Team By Kisung Moon, Hyunjeong Seo, Jungmi Park, Hyunsuk Choi, Yuntae Jae, Youngjin Seong)*
+#### *(Team By Kisung Moon, Hyunjeong Seo, Jungmi Park, Hyunsuk Choi, Yuntae Jae, Youngjin Seong)*
 
 ## Requirement
 - Window 10 64bit
@@ -20,6 +20,6 @@
 
 ## Configuration
 1. crawling -- 한국영상자료원 크롤링
-2. controller, dao, interceptor, mapper, rest_controller, security, soulmovie, vo -- 주요 기능
+2. controller, dao, interceptor, mapper, rest_controller, security, soulmovie, vo -- 주요 기능 코드
 3. views -- jsp
 4. Soulmovie.pptx -- 최종발표자료
