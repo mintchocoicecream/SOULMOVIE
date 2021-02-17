@@ -35,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/64584574/102320825-290e3600-3fc0-11eb-8aa3-0b843f9f20bf.png"  width="370" height="700"> <img src="https://user-images.githubusercontent.com/64584574/102320866-375c5200-3fc0-11eb-9f88-bd186500fc99.png"  width="370" height="600">
 
 ### 3. Upload Movie Reviews
-<img src="https://user-images.githubusercontent.com/64584574/102320946-59ee6b00-3fc0-11eb-954e-8807cc348b6f.png"  width="370" height="500">
+<img src="https://user-images.githubusercontent.com/64584574/102320946-59ee6b00-3fc0-11eb-954e-8807cc348b6f.png"  width="370" height="450">
 
 ### 4. Movie Rank & Information
 ![soulmovierank](https://user-images.githubusercontent.com/64584574/102321266-c4071000-3fc0-11eb-953c-792b61589483.png)
