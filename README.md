@@ -1,6 +1,7 @@
 # **SOULMOVIE**
 ## Spring Framework Web Project
 #### *(Team By Kisung Moon, Hyunjeong Seo, Jungmi Park, Hyunsuk Choi, Yuntae Jae, Youngjin Seong)*
+* '소울 무비'는 사이트 이용고객이 감명 깊게 보았던 자신만의 인생영화에 대해 리뷰를 남기고, 이에 대해 또다른 사용자와 함께 소통하는 웹 서비스입니다.
 
 ## Requirement
 - Window 10 64bit
@@ -24,18 +25,18 @@
 3. views -- jsp
 4. Soulmovie.pptx -- 최종발표자료
 
-## 'Soul Movie'screen
+## 'Soul Movie'
 
 ### 1. Main Home 
 ![soulmoviehome](https://user-images.githubusercontent.com/64584574/102320528-c1f08180-3fbf-11eb-866b-c6f6ed49a62e.jpg)
 ![soulmoviemoviehome](https://user-images.githubusercontent.com/64584574/102320685-fcf2b500-3fbf-11eb-8847-3554c60d54a2.png)
 
 ### 2. Join & Login 
-![soulmoviejoin](https://user-images.githubusercontent.com/64584574/102320825-290e3600-3fc0-11eb-8aa3-0b843f9f20bf.png)
-![soulmovielogin](https://user-images.githubusercontent.com/64584574/102320866-375c5200-3fc0-11eb-9f88-bd186500fc99.png)
+<img src="https://user-images.githubusercontent.com/64584574/102320825-290e3600-3fc0-11eb-8aa3-0b843f9f20bf.png"  width="370" height="700">
+<img src="https://user-images.githubusercontent.com/64584574/102320866-375c5200-3fc0-11eb-9f88-bd186500fc99.png"  width="370" height="700">
 
 ### 3. Upload Movie Reviews
-![soulmovieregistmovie](https://user-images.githubusercontent.com/64584574/102320946-59ee6b00-3fc0-11eb-954e-8807cc348b6f.png)
+<img src="https://user-images.githubusercontent.com/64584574/102320946-59ee6b00-3fc0-11eb-954e-8807cc348b6f.png"  width="370" height="700">
 
 ### 4. Movie Rank & Information
 ![soulmovierank](https://user-images.githubusercontent.com/64584574/102321266-c4071000-3fc0-11eb-953c-792b61589483.png)
